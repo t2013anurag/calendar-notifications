@@ -1,0 +1,20 @@
+{
+  "name": "node-notifications",
+  "version": "1.0.0",
+  "description": "Send notifications to users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "notifications"
+  ],
+  "author": "Anurag Tiwari (tiwari.anurag126@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^17.1.0",
+    "node-notifier": "^5.0.2"
+  }
+}
