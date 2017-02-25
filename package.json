@@ -11,7 +11,7 @@
     "notifications"
   ],
   "author": "Anurag Tiwari (tiwari.anurag126@gmail.com)",
-  "license": "ISC",
+  "license": "GNU",
   "dependencies": {
     "google-auth-library": "^0.10.0",
     "googleapis": "^17.1.0",
